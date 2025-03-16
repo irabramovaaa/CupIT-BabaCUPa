@@ -30,13 +30,13 @@
 1. **Клонируйте репозиторий**:
    - Склонируйте репозиторий на ваш компьютер:
      ```bash
-     git clone https://github.com/ваш-username/ваш-репозиторий.git
+     git clone https://github.com/irabramovaaa/CupIT-BabaCUPa.git
      ```
 
 2. **Перейдите в директорию проекта**:
    - Перейдите в папку с проектом:
      ```bash
-     cd ваш-репозиторий
+     cd CupIT-BabaCUPa
      ```
 
 3. **Запустите Jupyter Notebook**:
